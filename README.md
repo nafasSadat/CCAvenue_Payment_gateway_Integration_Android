@@ -2,5 +2,5 @@
 ## CCavenue payment gatway integration in android, with server-side implementaion 
 
 ### dependencies
-### implementation 'com.jakewharton:butterknife:6.1.0'
-### implementation 'com.android.volley:volley:1.1.0'
+#### implementation 'com.jakewharton:butterknife:6.1.0'
+#### implementation 'com.android.volley:volley:1.1.0'
