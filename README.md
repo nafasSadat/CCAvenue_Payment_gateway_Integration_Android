@@ -9,7 +9,7 @@
 #### you can download .jsp files based on your requiremnet, so here I am using php files
 
 ### Output
-![Screenshot_20220409-223511_Video Player](https://user-images.githubusercontent.com/28274092/162584398-af73195f-41c6-4cc5-b817-dcf91d5d2991.jpg)
+<img src="file:///C:/Users/TAQI/OneDrive/Desktop/Screenshot_20220409-223511_Video%20Player.jpg" width="200" height="400" />
 
 ![Screenshot_20220409-223653_CCAvenue_Payment](https://user-images.githubusercontent.com/28274092/162584405-fb923842-ff03-47d4-b811-0f145e982c96.jpg)
 
