@@ -11,7 +11,8 @@
 ### Output
 <img src="file:///C:/Users/TAQI/OneDrive/Desktop/Screenshot_20220409-223511_Video%20Player.jpg" width="200" height="400" />
 
-![Screenshot_20220409-223653_CCAvenue_Payment](https://user-images.githubusercontent.com/28274092/162584405-fb923842-ff03-47d4-b811-0f145e982c96.jpg)
+<img src="https://user-images.githubusercontent.com/28274092/162584405-fb923842-ff03-47d4-b811-0f145e982c96.jpg" width="200" height="400" />
+
 
 
 ![Screenshot_20220409-223743_CCAvenue_Payment](https://user-images.githubusercontent.com/28274092/162584372-02a6141e-f54f-41be-8084-c546b1ab5223.jpg)
